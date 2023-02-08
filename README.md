@@ -1,4 +1,4 @@
-![think_different_apple_mac_68-t2](https://user-images.githubusercontent.com/124530691/217654216-c64b45f5-2f1b-4581-b4fd-37241b94ef01.jpg)
+![Untitled design (1)](https://user-images.githubusercontent.com/124530691/217661391-8d25f02e-70ce-4e73-9295-de9e13f7ef4d.gif)
 
 <h1 align="center">Hey there 👋, I'm Abdallahi Thiaw</h1>
 <h3 align="center">Up-and-coming IOS developer at CSCC</h3>
