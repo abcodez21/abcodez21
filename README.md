@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xmbfwds1afyokqulw0h7cb084euoxr6wusvgmmy3&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on **Trade-It-Up**
+- 🔭 I’m currently working on **Secure Zone**
 
 - 📫 How to reach me **abcodez21@outlook.com**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abcodez21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abcodez21" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdallahi-thiaw-43952a265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abcodez21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
